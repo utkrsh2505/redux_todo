@@ -1,0 +1,21 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "todos": [
+    {
+      "title": "walking",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "jndsfjenrgijr",
+      "status": false,
+      "id": 2
+    }
+  ]
+}
